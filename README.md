@@ -64,7 +64,7 @@ tabuada/
 ├── main.py
 ├── LICENSE
 ├── instructions.txt
-├──imagens/demonstracao.png
+├──imagensdemonstracao.png
 └── multiplication-table-python.zip
 ```
 
