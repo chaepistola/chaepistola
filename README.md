@@ -54,7 +54,7 @@ Caso o comando não funcione, tente `python3 main.py` ou `py main.py`, dependend
 
 A imagem abaixo apresenta uma demonstração da execução do programa.
 
-![Demonstração da tabuada](imagens/demonstracao.png)
+![Demonstração](imagensdemonstracao.png)
 
 ## Estrutura dos arquivos
 
@@ -65,6 +65,7 @@ tabuada/
 ├── LICENSE
 ├── instructions.txt
 ├──imagens/demonstracao.png
+└── multiplication-table-python.zip
 ```
 
 ## Licença
