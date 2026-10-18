@@ -64,8 +64,7 @@ tabuada/
 ├── main.py
 ├── LICENSE
 ├── instructions.txt
-└── imagens/
-    └── demonstracao.png
+├──imagens/demonstracao.png
 ```
 
 ## Licença
